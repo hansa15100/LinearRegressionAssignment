@@ -6,7 +6,6 @@
 * Steps followed for prediction task.
 * Observations
 * Conclusions
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
